@@ -1,0 +1,7 @@
+C:\alireza\c++\vs\library_WinForm\library_WinForm\x64\Debug\library_WinForm.vcxprojAssemblyReference.cache
+C:\alireza\c++\vs\library_WinForm\library_WinForm\x64\Debug\library_WinForm.Form1.resources
+C:\alireza\c++\vs\library_WinForm\library_WinForm\x64\Debug\library_WinForm.Form2.resources
+C:\alireza\c++\vs\library_WinForm\library_WinForm\x64\Debug\library_WinForm.LoginPage.resources
+C:\alireza\c++\vs\library_WinForm\library_WinForm\x64\Debug\library_WinForm.NewBookPage.resources
+C:\alireza\c++\vs\library_WinForm\library_WinForm\x64\Debug\library_WinForm.UserPage.resources
+C:\alireza\c++\vs\library_WinForm\library_WinForm\x64\Debug\library_WinForm.vcxproj.GenerateResource.cache

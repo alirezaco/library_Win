@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "library_WinForm", "library_WinForm\library_WinForm.vcxproj", "{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Debug|x64.ActiveCfg = Debug|x64
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Debug|x64.Build.0 = Debug|x64
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Debug|x86.ActiveCfg = Debug|Win32
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Debug|x86.Build.0 = Debug|Win32
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Release|x64.ActiveCfg = Release|x64
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Release|x64.Build.0 = Release|x64
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Release|x86.ActiveCfg = Release|Win32
+		{98C22C6E-DF3C-44D4-A164-3DC369E13E6D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B969CE-48FA-4B42-B6A2-9B084A25CDB1}
+	EndGlobalSection
+EndGlobal
